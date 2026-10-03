@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Переменные окружения
+.env
+.env.local
+
+# Редактор
+.vscode/
+.idea/
+
+# Docker
+*.log
